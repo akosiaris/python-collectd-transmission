@@ -1,6 +1,17 @@
 CHANGES
 =======
 
+v2.0
+----
+
+* Make upgrade script executable, update setup.cfg
+* Fix some malpresented items in README.rst
+* Add a script to upgrade from 1.3 to 2.0
+* Typo fixes
+* Support current session metrics
+* Move to a ReST format for README file
+* Update homepage in setup.cfg
+
 v1.3
 ----
 
