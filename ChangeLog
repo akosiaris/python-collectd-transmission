@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+v1.3
+----
+
+* Move once more secondsActive back to gauges
+* Move to a more flexible metric definition scheme
+
 v1.2
 ----
 
