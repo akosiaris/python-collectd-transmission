@@ -1,6 +1,21 @@
 CHANGES
 =======
 
+v2.1
+----
+
+* pbr as a test-requirement
+* Add coverage run by default by tox
+* Add travis integration
+* Enable flake8 tests
+* Add more tests, use mock
+* Make inclusion of transmissionrpc unconditional
+* Add a tox.ini for testing via tox
+* Add some first unittests
+* Update README.rst with pythonhosted info
+* Remove the pbr requirement
+* Add ReST documentation under doc/
+
 v2.0
 ----
 
