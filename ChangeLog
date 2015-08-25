@@ -1,6 +1,19 @@
 CHANGES
 =======
 
+v2.2
+----
+
+* Release version 2.2
+* Update documentation for version 2.2
+* Add travis build status in README file
+* Bump version string in documentation
+* Bump copyright dates to 2015
+* Ammend the travis.yaml build script
+* general stats Exception for transmissionrpc >=0.9
+* Update the LICENSE file
+* Bump version to 2.1 for documentation as well
+
 v2.1
 ----
 

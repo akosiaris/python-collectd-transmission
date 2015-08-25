@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: collectd-transmission
-Version: v2.1
+Version: v2.2
 Summary: A python plugin for collectd to get stats from a runnning transmission server.
 Home-page: https://github.com/akosiaris/collectd_transmission
 Author: Alexandros Kosiaris
@@ -8,6 +8,10 @@ Author-email: akosiaris@gmail.com
 License: 'ISC'
 Description: Introduction
         ============
+        
+        .. image:: https://travis-ci.org/akosiaris/collectd_transmission.svg?branch=master
+            :target: https://travis-ci.org/akosiaris/collectd_transmission
+                :alt: Build Status
         
         A python plugin for integrating collectd and transmission. With this
         installed, collectd will be querying transmission for the following:
